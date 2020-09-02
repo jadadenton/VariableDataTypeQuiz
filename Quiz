@@ -9,9 +9,9 @@ public class Main {
         boolean docs = true;
 
         System.out.println("I went to the party around " + days + " days ago.");
-        System.out.println("What is today's date? " + date);
+        System.out.println("Today's date is " + date);
         System.out.println("I currently weigh " + weight + " kgs.");
-        System.out.println("All Documents Provided: " + docs);
+        System.out.println("It is " + docs + " all documents are provided.");
 
     }
 }
