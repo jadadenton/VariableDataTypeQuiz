@@ -1,0 +1,17 @@
+package com.company;
+
+public class Main {
+
+    public static void main(String[] args) {
+        int days = 2;
+        String date = "09/02/2020";
+        float weight = 20.2f;
+        boolean docs = true;
+
+        System.out.println("I went to the party around " + days + " days ago.");
+        System.out.println("What is today's date? " + date);
+        System.out.println("I currently weigh " + weight + " kgs.");
+        System.out.println("All Documents Provided: " + docs);
+
+    }
+}
